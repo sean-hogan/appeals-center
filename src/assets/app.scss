@@ -1,0 +1,7 @@
+$green: #17C9b9;
+$enable-rounded: false;
+$primary: $green;
+//Import BS after customizations
+@import "~bootstrap/scss/bootstrap";
+//Import bs-icons
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css");
