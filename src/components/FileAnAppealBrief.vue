@@ -23,12 +23,7 @@
             <div class="col-md-10">
               <div class="card-body">
                 <h5 class="card-title">Grade Appeal</h5>
-                <p class="card-text">Each CSU Global course clearly defines the instructional objectives
-            of the course at the beginning of each term and provides guidelines
-            for evaluating student achievement in a manner consistent with the
-            stated objectives. Students are responsible for maintaining
-            standards of academic performance established for each course in
-            which they are enrolled.</p>
+                <p class="card-text">Each CSU Global course clearly defines the instructional objectives of the course in the student syllabus and provides guidelines for evaluating student achievement. Grade appeals are available when students feel their assignments were not graded according to the grading rubric. Prior to considering a grade appeal, students are expected to discuss course-related questions or concerns with their instructor directly so that the instructor has the opportunity to work with the student to seek resolution. Students are also expected to contact their student success counselor as soon as questions or concerns arise so that administration has an opportunity to help facilitate immediate resolution prior to the end of the course.</p>
 
                 <p class="card-text">
                   <router-link class="btn btn-outline-secondary" to="/appeals/grade-appeals">Start A Grade Appeal <i class="bi bi-arrow-right-circle ms-2"></i></router-link>
@@ -51,14 +46,7 @@
               <div class="card-body">
                       <h5 class="card-title">Satisfactory Academic Progress</h5>
                       <p class="card-text">
-                  Each institution of higher education that receives Federal Title IV
-                  Funds is required by the U.S.Department of Education to define and
-                  enforce standards of satisfactory academic progress. Satisfactory
-                  Academic Progress measures a student’s performance in the following
-                  three areas: cumulative completion rate, cumulative grade point
-                  average (GPA), and maximum time frame. The purpose of this policy is
-                  to inform students of the expectations required of them to make
-                  reasonable academic progress in order to earn a degree.</p>
+                        Students will be placed on SAP Probation if they fail to meet the minimum SAP standards after the SAP Warning trimester. SAP Probation status is noted on the transcript until the student returns to Good Academic Standing. Students on SAP Probation must submit and have an appeal approved to continue with courses.</p>
 
                       <p class="card-text">
                         <router-link class="btn btn-outline-secondary" to="/appeals/satisfactory-academic-progress">Choose SAP Appeal Type <i class="bi bi-arrow-right-circle ms-2"></i></router-link>
@@ -78,14 +66,7 @@
             <div class="card-body">
                     <h5 class="card-title">Tuition</h5>
                     <p class="card-text">
-                The Student Affairs Committee will consider requests for adjustment
-                to tuition and fee charges when a student can document extenuating
-                circumstances. Situations that are NOT considered extenuating
-                include, but are not limited to: predictable events such as a
-                wedding, vacation, shifts in work assignment, previously scheduled
-                surgery, or other events of which the student is aware and can make
-                appropriate decisions and schedule adjustments prior to the term
-                drop deadline.
+                Tuition appeals are requests for an adjustment to tuition and fee charges when a student can document extenuating circumstances. Situations that are NOT considered extenuating include, but are not limited to: predictable events such as a wedding, vacation, shifts in work assignment, previously scheduled surgery, or other events of which the student is aware and can make appropriate decisions and schedule adjustments prior to the term drop deadline.
                 </p>
 
                     <p class="card-text">
@@ -106,11 +87,7 @@
               <div class="card-body">
                       <h5 class="card-title">Provost Appeals</h5>
                       <p class="card-text">
-                  The Provost Appeal has been established to review the decision of
-                  the appeals committee or departments in order to ensure that the
-                  decision was made in accordance with university policy and that the
-                  decision was not arbitrary, capricious, or otherwise not based on
-                  the available facts.</p>
+                  The Provost Appeal has been established to review the decision of the appeals committee or other departments in order to ensure those decisions are made in accordance with university policy and that decisions are not arbitrary, capricious, or otherwise not based on the available facts. The Provost Appeal is not meant to replace determinations of the appeals committee or other departments but affirm that student rights to due process were properly conducted.</p>
 
                       <p class="card-text">
                         <router-link class="btn btn-outline-secondary" to="/appeals/provost-appeals">Start A Provost Appeal <i class="bi bi-arrow-right-circle ms-2"></i></router-link>
@@ -128,12 +105,9 @@
             <div class="col-md-10">
               <div class="card-body">
                       <h5 class="card-title">Retroactive Withdrawal</h5>
-                      <p class="card-text"> Students may request that all grades in a previous term be
-                  retroactively removed and replaced with W grades on their
-                  transcript. Students need to have experienced, during that term,
-                  unexpected health and/or personal problems so severe that they could
-                  not have been reasonably expected to complete the term
-                  satisfactorily.</p>
+                      <p class="card-text"> 
+                        Students are expected to follow all term deadlines. In extenuating circumstances, students who encounter an unexpected obstacle after the withdrawal deadline of a term can appeal to earn a “WA” for courses in that term as opposed to their earned letter grade. 
+                      </p>
 
                       <p class="card-text">
                         <router-link class="btn btn-outline-secondary" to="/appeals/retroactive-withdrawal">Start Retroactive Withdrawal <i class="bi bi-arrow-right-circle ms-2"></i></router-link>
