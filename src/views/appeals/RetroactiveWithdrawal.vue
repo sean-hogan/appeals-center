@@ -10,10 +10,10 @@
         <div class="card-body">
 
 
-    <h3 class="card-title py-3">Retroactive Withdrawal Basics</h3>
+    <h3 class="card-title py-3">Retroactive Withdrawal Request Basics</h3>
 
     <p>
-      <strong>What You'll Need:</strong> A completed <a href="#">Retroactive Withdrawal Request Form</a>, with a valid appeal factor, submitted before the appeal deadline
+      <strong>What You'll Need:</strong> A completed <a href="#">Retroactive Withdrawal Request</a>, with a valid appeal factor, submitted before the appeal deadline
     </p>
 
     <p>
@@ -23,19 +23,13 @@
     
     <p><strong>Appeal Factors:</strong></p>
     <ul>
-      <li>
-        Documented extenuating circumstances
-      </li>
-      <li>
-        Dates of the occurence as they relate to the term
-      </li>
-      <li>
-        Confirmation that the student could not reasonably have been expected to be able to complete the term
-      </li>
+      <li>Student faced an unexpected and/or extenuating circumstance after the withdrawal deadline during the term.  </li>
+      <li>Student can provide documentation of their extenuating circumstance. </li>
+
     </ul>
 
     <p>
-      <strong>Decision Time Frame:</strong> Requests are reviewed after the end of the term by the Student Appeals Committee
+      <strong>Decision Time Frame:</strong> Next available Appeals Committee meeting.
     </p>
 
     <p>
@@ -54,74 +48,53 @@
 
 
         <div class="header mb-4">
-          <h1 class="display-2">Retroactive Withdrawal</h1>
+          <h1 class="display-2">Retroactive Withdrawal Request</h1>
         </div>
         
       <p class="lead">Students may request that all grades in a previous term be retroactively removed and replaced with W grades on their transcript. Students need to have experienced, during that term, unexpected health and/or personal problems so severe that they could not have been reasonably expected to complete the term satisfactorily.</p>
        
 
 
-    <h4>Tuition Appeal Policy</h4>
-    <p>
-       In general:
-    </p>
+    <h2>Appeal Review Guidelines</h2>
+ 
       <ul>
-        <li>
-          A retroactive withdrawal is not allowed if student already earned a degree from CSU-Global and the term being requested is prior to the degree conferral
-        </li>
-        <li>
-          An approved retroactive withdrawal has no impact on any financial balance owed to the University
-        </li>
-        <li>
-          Retroactive withdrawals apply to every course for a particular term and cannot apply to selective courses
-        </li>
-        <li>
-          The retroactive withdrawal option is not intended if student simply missed the course withdrawal deadline
-        </li>
-        <li>
-          Student can choose to withdraw to preserve their GPA or they can request a Tuition Appeal; but not both
-        </li>
-        <li>
-          In order to retroactively withdraw from a course, the student must provide documentation of the extenuating circumstances involved. Documentation should outline a timeline that prevented student from withdrawing by the withdrawal deadline
-        </li>
-        <li>
-          Withdrawing (even retroactively) has an impact on Financial Aid. In some circumstances, withdrawing may lead to a return of financial aid funds
-        </li>
+        
+        <li>A retroactive withdrawal is not allowed if student already earned a degree from CSU-Global and the term being requested is prior to the degree conferral</li>
+        <li>An approved retroactive withdrawal has no impact on any financial balance owed to the University</li>
+        <li>Retroactive withdrawals apply to every course for a particular term and cannot apply to selective courses</li>
+        <li>The retroactive withdrawal option is not intended if student simply missed the course withdrawal deadline</li>
+        <li>Student can choose to withdraw to preserve their GPA or they can request a Tuition Appeal; but not both</li>
+        <li>In order to retroactively withdraw from a course, the student must provide documentation of the extenuating circumstances involved. Documentation should outline a timeline that prevented student from withdrawing by the withdrawal deadline</li>
+        <li>Withdrawing (even retroactively) has an impact on Financial Aid. In some circumstances, withdrawing may lead to a return of financial aid funds</li>
+
+
       </ul>
 
+      <p>Students must submit the request, along with supporting documentation from a professional who can attest to the claim of extenuating circumstances, through the Student Portal within 30 days of the end of the term in question.</p>
+
+      <p>Requests are reviewed after the end of the term by the Student Appeals Committee which makes a decision for approval or denial of the request. </p>
+
+      <h2>Appeal Outcomes</h2>
+
+      <p>The student's appeal and documentation and  supporting documentation will be reviewed by the Student Appeals Committee who will come to one of three possible outcomes:</p>
+<ul>
+<li>Approved: Student is awarded “WA’s” for all courses in a term.</li>
+<li>Denied: Student’s earned grade will stand. </li>
+<li>Rejected; Committee needs additional information and/or documentation before a decision can be reached. </li>
+</ul>
+
+
+
+
+
+    <h2>Provost Appeal Process</h2>
     <p>
-       To request a retroactive withdrawal:
+      If the decision is made to deny the appeal, the student may appeal the decision to the Provost or designee. The appeal, with supporting documentation, must be filed within two (2) weeks of the receipt of the original decision. The Provost or designee may request additional information as determined necessary. No later than three (3) weeks from the filing of the appeal with the Provost or his/her designee, the student will be notified of the final decision.
     </p>
 
-    <p>
-      Students must submit the request, along with supporting documentation from a professional who can attest to the claim of extenuating circumstances, through the Student Portal within 30 days of the end of the term in question.
-    </p>
 
     <p>
-      Requests are reviewed after the end of the term by the Student Appeals Committee which makes a decision for approval or denial of the request.
-    </p>
-
-
-
-    <h4>Provost Appeal Process</h4>
-    <p>
-      Suspendisse et sodales est. Etiam sed nisl tellus. Vivamus id vestibulum mauris, consequat volutpat justo. Curabitur volutpat nibh eu purus auctor ultricies. Morbi a libero consequat velit dictum egestas. Nunc neque libero, dictum nec dui a, fringilla luctus tellus. Praesent elementum quis neque et dictum. Fusce non iaculis leo. In commodo semper urna, a suscipit neque. Donec ex sapien, lobortis ullamcorper turpis vitae, sagittis eleifend arcu.
-    </p>
-
-    <ul>
-      <li>
-        Aenean ullamcorper auctor porta. Mauris posuere ultricies accumsan
-      </li>
-      <li>
-        In a diam vel leo porta mattis
-      </li>
-      <li>Phasellus vitae massa et ligula facilisis scelerisque</li>
-    </ul>
-
-    <p>
-      No later than three (3) weeks from the filing of the appeal with the
-      Provost or his/her designee, the student will be notified of the final
-      decision.
+      If a student has exhausted all appeal options may explore the <a href="">Student Grievance Policy</a>.
     </p>
     
     </div><!--end clearfix-->
@@ -168,11 +141,11 @@ export default {
     margin-top: 10px;
 }
 
-h4 {
+h2 {
   margin-top:2rem;
 }
 
-h4:after {
+h2:after {
     content: "";
     display: block;
     margin-bottom: 20px;

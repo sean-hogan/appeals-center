@@ -11,14 +11,14 @@
         <div class="card-body">
 
 
-    <h3 class="card-title py-3">Grade Appeal Basics</h3>
+    <h2 class="card-title py-3">Grade Appeal Basics</h2>
 
     <p>
-      <strong>What You'll Need:</strong> A completed <a href="">Grade Appeal Form</a>, with a valid appeal factor, submitted before the appeal deadline
+      <strong>What You'll Need:</strong> A completed <a href="#">Grade Appeal Form</a>, with a valid appeal factor, submitted before the appeal deadline
     </p>
 
     <p>
-      <strong>Appeal Deadline:</strong> 3 weeks after the final grade is recorded, including all supporting documentation, such as assignments and communications
+      <strong>Appeal Deadline:</strong> 30 days after the final course grade is recorded, including all supporting documentation, such as assignments and communications. Documentation is not required, however it is recommended that student provide any documentation that is referred to in appeal
     </p>
 
     
@@ -33,8 +33,7 @@
         those applied to other students.
       </li>
       <li>
-        A grading decision was based on a substantial, unreasonable, or
-        unannounced departure from the course objectives and assignments
+        A grading decision was based on a substantial, unreasonable, or unannounced departure from the course objectives and assignments. Grading rubric was not applied accurately. 
       </li>
     </ul>
 
@@ -61,11 +60,11 @@
           <h1 class="display-2">Grade Appeals</h1>
         </div>
         
-      <p class="lead"> Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. </p>
+      <p class="lead">When a student receives a grade on an assignment that they wish to challenge, then a grade appeal can be pursued. If a student can provide the support that the instructor did not follow the grading rubric or that their work was graded with bias, then a grade appeal can be pursued. If approved, a grade appeal can result in the lowering, no change, or raising of an assignment grade.</p>
        
 
 
-    <h4>Grade Appeal Policy</h4>
+    <h2>Grade Appeal Policy</h2>
     <p>
       Each CSU Global course clearly defines the instructional objectives of the
       course at the beginning of each term and provides guidelines for
@@ -127,7 +126,7 @@
 
      
         
-    <h4>Grade Appeal Process</h4>
+    <h2>Appeal Outcomes</h2>
     <p>
       Upon receiving a grade appeal request and supporting documentation, the
       Office of Student Affairs will forward the appeal to the Program Director
@@ -147,32 +146,13 @@
       <li>Raising original grade(s) in accordance with the grading review.</li>
     </ul>
 
-    <h4>Provost Appeal Process</h4>
+    <h2>Provost Appeal Process</h2>
     <p>
-      If the decision is made to deny the appeal and uphold the original grade,
-      the student may appeal the decision to the Provost or designee, who will
-      appoint a review panel consisting of other faculty and Program Director(s)
-      not involved in the original appeal. The appeal, with supporting
-      documentation, must be filed within two (2) weeks of the receipt of the
-      original decision. The review panel may request additional information as
-      determined necessary. The panel will review the submitted documentation
-      and recommend one of the following actions:
+      If the decision is made to deny the appeal and uphold the original grade, the student may appeal the decision to the Provost or designee. The appeal, with supporting documentation, must be filed within two (2) weeks of the receipt of the original decision. The Provost or designee may request additional information as determined necessary. No later than three (3) weeks from the filing of the appeal with the Provost or his/her designee, the student will be notified of the final decision.
     </p>
 
-    <ul>
-      <li>
-        Lowering the original grade(s) in accordance with the grading review.
-      </li>
-      <li>
-        Confirming and upholding the original grade(s) from the instructor.
-      </li>
-      <li>Raising original grade(s) in accordance with the grading review.</li>
-    </ul>
-
     <p>
-      No later than three (3) weeks from the filing of the appeal with the
-      Provost or his/her designee, the student will be notified of the final
-      decision.
+      If a student has exhausted all appeal options may explore the <a href="#">Student Grievance Policy</a>.
     </p>
     
     </div><!--end clearfix-->
@@ -221,11 +201,11 @@ export default {
     margin-top: 10px;
 }
 
-h4 {
+h2 {
   margin-top:2rem;
 }
 
-h4:after {
+h2:after {
     content: "";
     display: block;
     margin-bottom: 20px;

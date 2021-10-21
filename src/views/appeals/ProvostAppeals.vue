@@ -10,7 +10,7 @@
         <div class="card-body">
 
 
-    <h3 class="card-title py-3">Provost Appeals Basics</h3>
+    <h2 class="card-title py-3">Provost Appeal Basics</h2>
 
     <p>
       <strong>What You'll Need:</strong> A completed <a href="#">Provost Appeal Form</a>, with a valid appeal factor, submitted before the appeal deadline
@@ -46,14 +46,11 @@
 
 
         <div class="header mb-4">
-          <h1 class="display-2">Provost Appeals</h1>
+          <h1 class="display-2">Provost Appeal</h1>
         </div>
         
-      <p class="lead">The Provost Appeal  has been established to review the decision of the appeals committee or departments in order to ensure that the  decision was made in accordance with university policy and that the decision was not arbitrary, capricious, or otherwise not based on the available facts.</p>
-       
-
-
-    <h4>Provost Appeal Policy</h4>
+      <p class="lead">The Provost Appeal has been established to review the decision of the appeals committee or departments in order to ensure that the decision was made in accordance with university policy and that the decision was not arbitrary, capricious, or otherwise not based on the available facts.</p>
+      
     <p>
       The Provost Appeal is not meant to replace the decision of the appeals committee or  department but affirm that the student’s right to due process was properly conducted. These areas are subject to Requests for Review that include but are not limited to: 
     </p>
@@ -83,13 +80,9 @@
     </ul>
 
     <p>
-    Provost appeals and supporting documents are reviewed in Campus Nexus. <span class="text-primary">Additional information is available in the P:drive > Committee >  Chartered >  Student Affairs > Subfiles.</span>
+   Students can reach out to their Student Success Counselor with questions about documents. 
     </p>
 
-
-    <p>
-      Additional support is available through the Office of Student Affairs for clarification or help with finding documentation.
-    </p>
 
     <p>The Provost Appeals process will  result in one of the following decisions: </p>
     <ul>
@@ -99,9 +92,9 @@
         <li>Reduce the sanction on the basis that the sanction or remedy imposed is not in proportion to the nature and  seriousness of the matter. </li>
         <li>Approve the appeal on the basis that there is evidence that the decision was prejudicial, arbitrary or capricious.</li>
         <li>Approve the appeal of the fourth course attempt based on a review of the facts. </li>
+        <li>Reject the appeal based on missing information, incomplete forms, or improper process.  </li>
     </ul>
-    <p>Reject the appeal based on missing information, incomplete forms, or improper process.  
-    </p>
+    <p>If a student has exhausted all appeal options may explore the <a href="">Student Grievance Policy</a>.</p>
     
     </div><!--end clearfix-->
     </div><!--end row-->

@@ -10,7 +10,7 @@
         <div class="card-body">
 
 
-    <h3 class="card-title py-3">Tuition Appeal Basics</h3>
+    <h2 class="card-title py-3">Tuition Appeal Basics</h2>
 
     <p>
       <strong>What You'll Need:</strong> A completed <a href="#">Tuition Appeal Form</a>, with a valid appeal factor, submitted before the appeal deadline
@@ -35,7 +35,7 @@
     </ul>
 
     <p>
-      <strong>Decision Time Frame:</strong> Next available Appeals Committee meeting
+      <strong>Decision Time Frame:</strong> Appeal is reviewed by the Student Appeals Committee. Once appeal is received then a review will be scheduled for the next available Committee meeting. Committee meets every two weeks. Decision will be delivered to student within one week of Committee meeting
     </p>
 
     <p>
@@ -57,32 +57,30 @@
           <h1 class="display-2">Tuition Appeals</h1>
         </div>
         
-      <p class="lead"> The Student Affairs Committee will consider requests for adjustment to tuition and fee charges when a student can document extenuating circumstances. Approved tuition appeals post a tuition waiver to the student's account; no refunds will be issued to the student directly unless withdrawn from the university. </p>
+      <p class="lead">The Student Appeals Committee will consider requests for adjustment to tuition and fee charges when a student can document extenuating circumstances. Approved tuition appeals post a tuition waiver to the student's account; no refunds will be issued to the student directly unless withdrawn from the university.</p>
        
 
 
-    <h4>Tuition Appeal Policy</h4>
+    <h2>Tuition Appeal Policy</h2>
     <p>
-      The Student Appeals Committee will consider requests for adjustment to tuition and fee charges when a student can document extenuating circumstances. Situations that are NOT considered extenuating include, but are not limited to: predictable events such as a wedding, vacation, shifts in work assignment, previously scheduled surgery, or other events of which the student is aware and can make appropriate decisions and schedule adjustments prior to the term drop deadline. 
-    </p>
-
-    <p>
-      Appeals must be made no later than thirty (30) days past the end of the eight-week term in question. Students may obtain an appeal form by contacting their advisor and must submit the completed form through the document center of the Student Portal. 
-
-    </p>
-
-    <p>
-     No adjustment or refunds of tuition and fees will be made to a student who is suspended, dismissed, or expelled for a breach of discipline. Approved tuition appeals post a tuition waiver to the student's account; no refunds will be issued to the student directly unless withdrawn from the university. Tuition waivers must be added to a student's financial aid package which could impact current or future award amounts. The amount of the tuition waiver will be prorated based on the student's participation during the term.
+      The Student Appeals Committee will consider requests for adjustment to tuition charges when a student can document extenuating circumstances. Situations that are NOT considered extenuating include, but are not limited to: predictable events such as a wedding, vacation, shifts in work assignment, previously scheduled surgery, or other events of which the student is aware and can make appropriate decisions and schedule adjustments prior to the term drop deadline. 
     </p>
 
 
-    <p>
-     Military students, their spouse, or dependents who are considering withdrawing from current coursework due to deployment, should first discuss all options with their faculty and advisor. If it is determined that withdrawal is the best option, students should file a tuition appeal before requesting a refund. Each tuition appeal will be reviewed and a decision made to ensure that students will not be unjustly penalized financially. Please contact <a href="mailto:StudentAccounts@CSUGlobal.edu">StudentAccounts@CSUGlobal.edu</a> with any questions.
-    </p>
+
+<p>Appeals must be made no later than thirty (30) days past the end of the eight-week term in question. Students may obtain an appeal form by contacting their advisor and must submit the completed form through the document center of the Student Portal. The Student Appeals Committee meets every two weeks to review appeals.</p>
+
+<p>No adjustment or refunds of tuition will be made to a student who is suspended, dismissed, or expelled for a breach of discipline. Approved tuition appeals post a tuition waiver to the student's account; no refunds will be issued to the student directly unless withdrawn from the university. Students should work with their Student Success Counselor and Student Financial Specialist to discuss any impacts of an approved tuition wavier. </p>
+
+<p>Tuition waivers are first applied to any past due tuition balances. If a student does not have a balance then the waiver will be applied to the next term the student registers for a course. The tuition waiver will be applied after the unregistration deadline for the term student is registered for. </p>
+
+<p>Military students, their spouse, or dependents who are considering withdrawing from current coursework due to deployment, should first discuss all options with their faculty and advisor. If it is determined that withdrawal is the best option, students should file a tuition appeal before requesting a refund. Each tuition appeal will be reviewed and a decision made to ensure that students will not be unjustly penalized financially. Please contact <a href="mailto:military.benefits@csuglobal.edu">military.benefits@csuglobal.edu</a> with any questions.</p>
+
+
 
      
         
-    <h4>Appeal Review Guidelines</h4>
+    <h2>Appeal Review Guidelines</h2>
     <p>
       When reviewing tuition appeals, the Student Appeal Committee looks for supporting documentation that verifies the reasons for appeal as listed by the student. The Committee requires verification documentation of three (3) key elements:
     </p>
@@ -97,25 +95,13 @@
       <li>Confirmation that the student could not reasonably have been expected to be able to complete the term</li>
     </ul>
 
-    <h4>Provost Appeal Process</h4>
+    <h2>Provost Appeal Process</h2>
     <p>
-      Suspendisse et sodales est. Etiam sed nisl tellus. Vivamus id vestibulum mauris, consequat volutpat justo. Curabitur volutpat nibh eu purus auctor ultricies. Morbi a libero consequat velit dictum egestas. Nunc neque libero, dictum nec dui a, fringilla luctus tellus. Praesent elementum quis neque et dictum. Fusce non iaculis leo. In commodo semper urna, a suscipit neque. Donec ex sapien, lobortis ullamcorper turpis vitae, sagittis eleifend arcu.
-    </p>
-
-    <ul>
-      <li>
-        Aenean ullamcorper auctor porta. Mauris posuere ultricies accumsan
-      </li>
-      <li>
-        In a diam vel leo porta mattis
-      </li>
-      <li>Phasellus vitae massa et ligula facilisis scelerisque</li>
-    </ul>
+   If the decision is made to deny the appeal, the student may appeal the decision to the Provost or designee. The appeal, with supporting documentation, must be filed within two (2) weeks of the receipt of the original decision. The Provost or designee may request additional information as determined necessary. No later than three (3) weeks from the filing of the appeal with the Provost or his/her designee, the student will be notified of the final decision.
+   </p>
 
     <p>
-      No later than three (3) weeks from the filing of the appeal with the
-      Provost or his/her designee, the student will be notified of the final
-      decision.
+    If a student has exhausted all appeal options may explore the <a href="">Student Grievance Policy</a>. 
     </p>
     
     </div><!--end clearfix-->
@@ -162,11 +148,11 @@ export default {
     margin-top: 10px;
 }
 
-h4 {
+h2 {
   margin-top:2rem;
 }
 
-h4:after {
+h2:after {
     content: "";
     display: block;
     margin-bottom: 20px;
