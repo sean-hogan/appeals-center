@@ -22,7 +22,10 @@
             <li><router-link class="dropdown-item" to="/appeals/tuition-appeals">Tuition Appeals</router-link></li>
             <li><router-link class="dropdown-item" to="/appeals/provost-appeals">Provost Appeals</router-link></li>
             <li><router-link class="dropdown-item" to="/appeals/retroactive-withdrawal">Retroactive Withdrawal</router-link></li>
-            <li><router-link class="dropdown-item" to="/appeals/satisfactory-academic-progress">Satisfactory Academic Progress</router-link></li>
+            <li><router-link class="dropdown-item" to="/appeals/sap-max-time-frame">SAP Max Time Frame Exception</router-link></li>
+            <li><router-link class="dropdown-item" to="/appeals/sap-probation">SAP Probation</router-link></li>
+            <li><router-link class="dropdown-item" to="/appeals/sap-suspension">SAP Suspension</router-link></li>
+            <li><router-link class="dropdown-item" to="/appeals/sap-financial-aid">SAP Financial Aid</router-link></li>
           </ul>
         </li>
 
@@ -32,7 +35,7 @@
           </router-link>
           <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
             <li><router-link class="dropdown-item" to="/academic-integrity/academic-dishonesty">Academic Dishonesty</router-link></li>
-            <li><router-link class="dropdown-item" to="/academic-integrity/student-grievance">Student Grievance</router-link></li>
+            <!-- <li><router-link class="dropdown-item" to="/academic-integrity/student-grievance">Student Grievance</router-link></li> -->
             <li><router-link class="dropdown-item" to="/academic-integrity/violations-of-student-code-of-conduct">Violations of Student Code of Conduct</router-link></li>
           </ul>
         </li>

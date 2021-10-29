@@ -60,31 +60,13 @@
           <h1 class="display-2">Grade Appeals</h1>
         </div>
         
-      <p class="lead">When a student receives a grade on an assignment that they wish to challenge, then a grade appeal can be pursued. If a student can provide the support that the instructor did not follow the grading rubric or that their work was graded with bias, then a grade appeal can be pursued. If approved, a grade appeal can result in the lowering, no change, or raising of an assignment grade.</p>
+      <p class="lead">When a student receives a grade on an assignment that they wish to challenge, then a grade appeal can be pursued. Successful appeals will provide the support that the instructor did not follow the grading rubric or that their work was graded with bias.</p>
        
 
 
     <h2>Grade Appeal Policy</h2>
-    <p>
-      Each CSU Global course clearly defines the instructional objectives of the
-      course at the beginning of each term and provides guidelines for
-      evaluating student achievement in a manner consistent with the stated
-      objectives. Students are responsible for maintaining standards of academic
-      performance established for each course in which they are enrolled.
-      Instructors are responsible for determining and assigning final course
-      grades. Course assignments, discussions, and other graded materials used
-      when evaluating a student's achievement will be available to the student
-      for inspection and discussion.
-    </p>
-
-    <p>
-      Prior to considering a grade appeal, students are expected to discuss
-      course-related questions or concerns with their instructor directly so
-      that the instructor has the opportunity to work with the student to seek
-      resolution. Students are also expected to contact their student success
-      counselor as soon as questions or concerns arise so that administration
-      has an opportunity to help facilitate immediate resolution prior to the
-      end of the course.
+    <p class="lead">
+      Prior to considering a grade appeal, students are expected to discuss course-related questions or concerns with their instructor directly so that the instructor has the opportunity to work with the student to seek resolution. Students are also expected to contact their student success counselor as soon as questions or concerns arise so that administration has an opportunity to help facilitate immediate resolution prior to the end of the course.
     </p>
 
     <p>
@@ -115,26 +97,12 @@
     </ul>
         
 
-    <p>
-      Appeals which do not demonstrate that grading was made on the basis of one
-      of these conditions will be dismissed. The student must submit the grade
-      appeal request, including all supporting documentation, within three (3)
-      weeks after the final grade is recorded. Appeal requests are submitted in
-      the Student Portal. Grades shall be considered final if no appeal is filed
-      within this time.
-    </p>
+    <p>The student must submit the grade appeal request, including all supporting documentation, within 30 days after the final grade is recorded. Appeal requests are submitted in the Student Portal.</p> 
 
      
         
     <h2>Appeal Outcomes</h2>
-    <p>
-      Upon receiving a grade appeal request and supporting documentation, the
-      Office of Student Affairs will forward the appeal to the Program Director
-      (or designee) who oversees the faculty member. The Program Director will
-      make a determination and the student will be notified of the determination
-      within two (2) weeks of appeal’s initiation. Grade appeal determinations
-      will include one of the following recommended actions:
-    </p>
+    <p>Grade appeal determinations will include one of the following recommended actions:</p>
 
     <ul>
       <li>
@@ -147,9 +115,7 @@
     </ul>
 
     <h2>Provost Appeal Process</h2>
-    <p>
-      If the decision is made to deny the appeal and uphold the original grade, the student may appeal the decision to the Provost or designee. The appeal, with supporting documentation, must be filed within two (2) weeks of the receipt of the original decision. The Provost or designee may request additional information as determined necessary. No later than three (3) weeks from the filing of the appeal with the Provost or his/her designee, the student will be notified of the final decision.
-    </p>
+    <p>Students who submit the Grade appeal and are denied can file a Provost Appeal Form. The provost appeal must be submitted within 2 weeks of the original decision. The provost may request additional documentation from the student. No later than three (3) weeks from the filing of the appeal with the Provost or his/her designee, the student will be notified of the final decision.</p>
 
     <p>
       If a student has exhausted all appeal options may explore the <a href="#">Student Grievance Policy</a>.

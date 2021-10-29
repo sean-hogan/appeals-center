@@ -51,6 +51,8 @@
         
       <p class="lead">The Provost Appeal has been established to review the decision of the appeals committee or departments in order to ensure that the decision was made in accordance with university policy and that the decision was not arbitrary, capricious, or otherwise not based on the available facts.</p>
       
+      <h2>Provost Appeal Policy</h2>
+      
     <p>
       The Provost Appeal is not meant to replace the decision of the appeals committee or  department but affirm that the student’s right to due process was properly conducted. These areas are subject to Requests for Review that include but are not limited to: 
     </p>
@@ -83,6 +85,7 @@
    Students can reach out to their Student Success Counselor with questions about documents. 
     </p>
 
+<h2>Appeal Outcomes</h2>
 
     <p>The Provost Appeals process will  result in one of the following decisions: </p>
     <ul>

@@ -46,10 +46,28 @@ const routes = [{
             import ( /* webpackChunkName: "retroactive-withdrawal" */ '../views/appeals/RetroactiveWithdrawal.vue')
     },
     {
-        path: '/appeals/satisfactory-academic-progress',
-        name: 'SatisfactoryAcademicProgress',
+        path: '/appeals/sap-max-time-frame',
+        name: 'SAPMaxTimeFrame',
         component: () =>
-            import ( /* webpackChunkName: "satisfactory-academic-progress" */ '../views/appeals/SatisfactoryAcademicProgress.vue')
+            import ( /* webpackChunkName: "sap-max-time-frame" */ '../views/appeals/SAPMaxTimeFrame.vue')
+    },
+    {
+        path: '/appeals/sap-probation',
+        name: 'SAPProbation',
+        component: () =>
+            import ( /* webpackChunkName: "sap-probation" */ '../views/appeals/SAPProbation.vue')
+    },
+    {
+        path: '/appeals/sap-suspension',
+        name: 'SAPSuspension',
+        component: () =>
+            import ( /* webpackChunkName: "sap-suspension" */ '../views/appeals/SAPSuspension.vue')
+    },
+    {
+        path: '/appeals/sap-financial-aid',
+        name: 'SAPFinancialAid',
+        component: () =>
+            import ( /* webpackChunkName: "sap-financial-aid" */ '../views/appeals/SAPFinancialAid.vue')
     },
     {
         path: '/academic-integrity/academic-dishonesty',
