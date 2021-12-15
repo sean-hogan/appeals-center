@@ -3,7 +3,7 @@
   <Navbar />
   <Hero 
     title="Get help faster."
-    body="It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters" 
+    body="The Student Appeals Center provides students with resources, guidance, and materials you need to get started with Academic Appeals" 
     imgsrc="hello.svg" />
   <FileAnAppealBrief />
   <AdvisorCallToAction />
@@ -26,7 +26,7 @@ export default {
     Hero,
     FileAnAppealBrief,
     AdvisorCallToAction,
-    Footer
+    Footer,
   }
 }
 </script>

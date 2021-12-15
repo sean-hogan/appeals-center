@@ -25,7 +25,7 @@
             <li><router-link class="dropdown-item" to="/appeals/sap-max-time-frame">SAP Max Time Frame Exception</router-link></li>
             <li><router-link class="dropdown-item" to="/appeals/sap-probation">SAP Probation</router-link></li>
             <li><router-link class="dropdown-item" to="/appeals/sap-suspension">SAP Suspension</router-link></li>
-            <li><router-link class="dropdown-item" to="/appeals/sap-financial-aid">SAP Financial Aid</router-link></li>
+            <li><router-link class="dropdown-item" to="/appeals/sap-financial-aid">Financial Aid Reinstatement Appeal</router-link></li>
           </ul>
         </li>
 

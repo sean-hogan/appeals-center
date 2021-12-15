@@ -18,15 +18,15 @@
     </p>
 
     <p>
-      <strong>Appeal Deadline:</strong> 30 days after the final course grade is recorded, including all supporting documentation, such as assignments and communications. Documentation is not required, however it is recommended that student provide any documentation that is referred to in appeal
+      <strong>Appeal Deadline:</strong> Filed within 30 days of the end of the term in question, including all supporting documentation
     </p>
 
     
     <p><strong>Appeal Factors:</strong></p>
     <ul>
       <li>
-        A grading decision was made on some basis other than performance and
-        other than as a penalty for academic dishonesty.
+        A grading decision was made on some basis other than performance and penalties for academic dishonesty.
+
       </li>
       <li>
         A grading decision was based on unreasonably different standards from
@@ -60,7 +60,7 @@
           <h1 class="display-2">Grade Appeals</h1>
         </div>
         
-      <p class="lead">When a student receives a grade on an assignment that they wish to challenge, then a grade appeal can be pursued. Successful appeals will provide the support that the instructor did not follow the grading rubric or that their work was graded with bias.</p>
+      <p class="lead">Students who seek to challenge a grade received on an assignment may file a grade appeal. Successful appeals will provide documentation and support that the instructor did not follow the grading rubric or that their work was graded with bias.</p>
        
 
 
@@ -70,29 +70,20 @@
     </p>
 
     <p>
-      If direct communication with faculty and staff does not bring satisfactory
-      resolution and the student feels that institutional standards and policies
-      have not been upheld, an appeal of the instructor's grading decision may
-      be made.
-      <strong
-        >The burden of proof rests with the student to demonstrate the grade
+      If direct communication with faculty and staff does not bring satisfactory resolution and the student feels that institutional standards and policies have not been upheld, an appeal of the instructor's grading decision may be made.<strong>The burden of proof rests with the student to demonstrate the grade
         assigned for the course was made on the basis of any of the following
-        conditions:</strong
-      >
+        conditions:</strong>
     </p>
 
     <ul>
       <li>
-        A grading decision was made on some basis other than performance and
-        other than as a penalty for academic dishonesty.
+        A grading decision was made on some basis other than performance and other than as a penalty for academic dishonesty.
       </li>
       <li>
-        A grading decision was based on unreasonably different standards from
-        those applied to other students.
+        A grading decision was based on unreasonably different standards from those applied to other students.
       </li>
       <li>
-        A grading decision was based on a substantial, unreasonable, or
-        unannounced departure from the course objectives and assignments.
+        A grading decision was based on a substantial, unreasonable, or unannounced departure from the course objectives and assignments.
       </li>
     </ul>
         

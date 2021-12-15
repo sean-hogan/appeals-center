@@ -35,7 +35,7 @@
     </ul>
 
     <p>
-      <strong>Decision Time Frame:</strong> Appeal is reviewed by the Student Appeals Committee. Once appeal is received then a review will be scheduled for the next available Committee meeting. Committee meets every two weeks. Decision will be delivered to student within one week of Committee meeting
+      <strong>Decision Time Frame:</strong> 3 weeks by Student Appeals Committee
     </p>
 
     <p>
@@ -57,24 +57,24 @@
           <h1 class="display-2">Tuition Appeals</h1>
         </div>
         
-      <p class="lead">The Student Appeals Committee will consider requests for adjustment to tuition and fee charges when a student can document extenuating circumstances. Approved tuition appeals post a tuition waiver to the student's account; no refunds will be issued to the student directly unless withdrawn from the university.</p>
+      <p class="lead">The Student Appeal Committee will consider requests for adjustment to tuition and fee charges when a student can document extenuating circumstances. Approved tuition appeals post a tuition waiver to student accounts; no refunds will be issued to students directly unless withdrawn from the university.</p>
        
 
 
     <h2>Tuition Appeal Policy</h2>
     <p>
-      The Student Appeals Committee will consider requests for adjustment to tuition charges when a student can document extenuating circumstances. Situations that are NOT considered extenuating include, but are not limited to: predictable events such as a wedding, vacation, shifts in work assignment, previously scheduled surgery, or other events of which the student is aware and can make appropriate decisions and schedule adjustments prior to the term drop deadline. 
+     The Student Appeal Committee will consider requests for adjustment to tuition charges when students can document extenuating circumstances. Situations that are NOT considered extenuating include, but are not limited to: predictable events such as a wedding, vacation, shifts in work assignment, previously scheduled surgery, or other events of which the student is aware and can schedule adjustments prior to the term drop deadline.
     </p>
 
 
 
-<p>Appeals must be made no later than thirty (30) days past the end of the eight-week term in question. Students may obtain an appeal form by contacting their advisor and must submit the completed form through the document center of the Student Portal. The Student Appeals Committee meets every two weeks to review appeals.</p>
+<p>Appeals must be made no later than thirty (30) days past the end of the eight-week term in question. Students may obtain an appeal form by contacting their Student Success Counselor and must submit the completed form through the document center of the Student Portal. The Student Appeal Committee meets every two weeks to review appeals.</p>
 
-<p>No adjustment or refunds of tuition will be made to a student who is suspended, dismissed, or expelled for a breach of discipline. Approved tuition appeals post a tuition waiver to the student's account; no refunds will be issued to the student directly unless withdrawn from the university. Students should work with their Student Success Counselor and Student Financial Specialist to discuss any impacts of an approved tuition wavier. </p>
+<p>No adjustment or refunds of tuition will be made to students who are suspended, dismissed, or expelled for a breach of discipline. Approved tuition appeals post a tuition waiver to student accounts; no refunds will be issued to students directly unless withdrawn from the university. Students should work with their Student Success Counselor and Student Financial Specialist to discuss impacts of any approved tuition waiver.</p>
 
-<p>Tuition waivers are first applied to any past due tuition balances. If a student does not have a balance then the waiver will be applied to the next term the student registers for a course. The tuition waiver will be applied after the unregistration deadline for the term student is registered for. </p>
+<p>Tuition waivers are first applied to any past due tuition balances. Waivers will be applied to the next registered term (after withdrawal deadline) for students who do not have a balance.</p>
 
-<p>Military students, their spouse, or dependents who are considering withdrawing from current coursework due to deployment, should first discuss all options with their faculty and advisor. If it is determined that withdrawal is the best option, students should file a tuition appeal before requesting a refund. Each tuition appeal will be reviewed and a decision made to ensure that students will not be unjustly penalized financially. Please contact <a href="mailto:military.benefits@csuglobal.edu">military.benefits@csuglobal.edu</a> with any questions.</p>
+<p>Military students, their spouses, or dependents who are considering withdrawing from current coursework due to deployment, should first discuss all options with their faculty and advisor. If it is determined that withdrawal is the best option, students should file a tuition appeal before requesting a refund. Each tuition appeal will be reviewed and a decision made to ensure that students will not be unjustly penalized financially. Please contact <a href="mailto:military.benefits@csuglobal.edu">military.benefits@csuglobal.edu</a> with any questions.</p>
 
 
 

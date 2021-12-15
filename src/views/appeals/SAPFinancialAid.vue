@@ -13,28 +13,29 @@
     <h3 class="card-title py-3">Financial Aid Reinstatement Appeal Basics</h3>
 
     <p>
-      <strong>What You'll Need:</strong> A completed <a href="#">Retroactive Withdrawal Request</a>, with a valid appeal factor, submitted before the appeal deadline
+      <strong>What You'll Need:</strong> A completed <a href="#">SAP Probation Appeal</a>, with a valid Third Party supporting documentation, submitted before the appeal deadline
     </p>
 
     <p>
-      <strong>Appeal Deadline:</strong> Filed within 30 days of the end of the term in question, including all supporting documentation
+      <strong>Appeal Deadline:</strong> Satisfactory Academic Progress progress is reviewed at the end of each trimester. Students deemed to move to Probation will need to submit an appeal before continuing with courses
     </p>
 
     
     <p><strong>Appeal Factors:</strong></p>
     <ul>
-      <li>Student faced an unexpected and/or extenuating circumstance after the withdrawal deadline during the term.  </li>
-      <li>Student can provide documentation of their extenuating circumstance. </li>
+      <li>Third party supporting documentation</li>
+      <li>Documents dates align with SAP Warning period.</li>
+      <li>Documentation and appeal demonstrate that student could not reasonably meet their SAP Warning contract</li>
 
     </ul>
 
     <p>
-      <strong>Decision Time Frame:</strong> Next available Appeals Committee meeting.
+      <strong>Decision Time Frame:</strong>  3 weeks by Student Appeals Committee
     </p>
 
     <p>
       <strong>Provost Appeal:</strong> Must Appeal to Provost within 2
-      weeks after decision.
+      weeks after decision
     </p>
 
 
@@ -53,27 +54,24 @@
         
         
 
-<p class="lead">Each institution of higher education that receives Federal Title IV Funds is required by the U.S.Department of Education to define and enforce standards of satisfactory academic progress. Satisfactory Academic Progress measures a student’s performance in the following three areas: cumulative completion rate, cumulative grade point average (GPA), and maximum time frame. The purpose of this policy is to inform students of the expectations required of them to make reasonable academic progress in order to earn a degree. Students will be placed on SAP Probation if they fail to meet the minimum SAP standards after the SAP Warning trimester. SAP Probation status is noted on the transcript until the student returns to Good Academic Standing.</p>
-
-
-<p>Students will receive notification of SAP Probation status from the Registrar's Office via email. In addition, the student will have a SAP Probation Hold and a SAP termination hold placed onto their account. Please note, the SAP termination hold is a Financial Aid hold and will be taken off the student's account if they are approved to continue receiving Financial Aid.</p>
-
-<p>All students who are placed on Academic Probation must submit an SAP Probation Appeal form and supporting documentation in order to continue taking courses during the Probation period. If students wish to appeal to have financial aid reinstated then they will select this option on their appeal form.</p>
+<p class="lead">Students who receive notification of Satisfactory Academic Progress Probation status from the Registrar’s Office are not eligible for financial aid. In order to continue taking courses you must submit a Probation Appeal. If you wish to have financial aid reinstated, you must select this option on your appeal form.</p>
 
 <h2>Appeal Review Guidelines</h2>
-<p>When reviewing SAP Probation Financial Aid Reinstatement appeals, the Student Appeal Committee will review the appeal looking at the following elements:</p>
+<p>When reviewing SAP Probation appeals for financial aid reinstatement, the Student Appeal Committee will review the appeal looking at the following elements:</p>
 
 <ul>
 <li>Documents are provided around extenuating circumstance during SAP Warning period</li>
 <li>Documents dates align with SAP Warning period</li>
 <li>Documentation and appeal demonstrate that student could not reasonably meet their SAP Warning contract</li>
 </ul>
+
+
 <h2>Appeal Outcomes</h2>
 
 <p>The student's academic progress during the warning period and any supporting documentation will be reviewed by the Student Appeals Committee who will come to one of three possible outcomes:</p>
 
 <ul>
-<li>Approved Academically; Approved to continue receiving Financial Aid - Financial aid students in Academic Probation status ARE NOT eligible for Title IV funds unless a student appeal has been approved by the institution. The University will only approve a financial aid appeal if it determines that the student had an extenuating circumstance that occurred and prevented the student from successfully completing the coursework.</li>
+<li>Approved Academically; Approved to continue receiving Financial Aid - Financial aid students in Academic Probation status <strong>are not eligible for Title IV funds</strong> unless a student appeal has been approved by the institution. The University will only approve a financial aid appeal if it determines that the student had an extenuating circumstance that occurred and prevented the student from successfully completing the coursework.</li>
 <li>Approved Academically; Denied Financial Aid</li>
 <li>Denied Academically; Denied for Financial Aid</li>
 <li>Rejected; Committee needs additional information and/or documentation before a decision can be reached. </li>
@@ -89,9 +87,9 @@
 
 
 
-<p>If the student is approved academically (and agrees to continue with classes), they will be issued an Academic Plan (aka SAP Contract) that will detail what must be completed in order to get back into Good Academic Standing. This contract will be for either one or two whole trimesters. The contract is meant to help the student avoid SAP Suspension. The contract will be completed by the Office of Student Affairs and emailed to the student within 7 business days of the Committee’s decision.  The student must sign the contract and upload it back to their student portal. Once the contract is received and approved, the student will be registered by Student Affairs for their courses.</p>
+<p>If the student is approved academically (and agrees to continue with classes), they will be issued an Academic Plan (aka SAP Contract) that will detail what must be completed in order to get back into Good Academic Standing</p>
 
-<p>If a student is approved to have financial aid reinstated they must follow their SAP contract. If the contract is broken in anyway the student is no longer eligible for financial aid during their SAP Probation period. </p>
+<p>If a student is approved to have financial aid reinstated they must follow their SAP contract. If the contract is broken in anyway the student is no longer eligible for financial aid during their SAP Probation period.</p>
 
 
 

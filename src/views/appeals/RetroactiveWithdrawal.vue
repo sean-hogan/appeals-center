@@ -29,12 +29,12 @@
     </ul>
 
     <p>
-      <strong>Decision Time Frame:</strong> Next available Appeals Committee meeting.
+      <strong>Decision Time Frame:</strong> 3 weeks by Student Appeals Committee
     </p>
 
     <p>
       <strong>Provost Appeal:</strong> Must Appeal to Provost within 2
-      weeks after decision.
+      weeks after decision
     </p>
 
 
@@ -51,7 +51,7 @@
           <h1 class="display-2">Retroactive Withdrawal Request</h1>
         </div>
         
-      <p class="lead">Students may request that all grades in a previous term be retroactively removed and replaced with W grades on their transcript. Students need to have experienced, during that term, unexpected health and/or personal problems so severe that they could not have been reasonably expected to complete the term satisfactorily.</p>
+      <p class="lead">Students may request that grades in a previous term be retroactively removed and replaced with a ‘W’ on their transcript. Students need to have experienced unexpected health and/or personal problems so severe during the term that they could not have been reasonably expected to complete the term satisfactorily.</p>
        
 
 
@@ -76,7 +76,7 @@
 
       <h2>Appeal Outcomes</h2>
 
-      <p>The student's appeal and documentation and  supporting documentation will be reviewed by the Student Appeals Committee who will come to one of three possible outcomes:</p>
+      <p>The appeal and supporting documentation will be reviewed by the Student Appeals Committee resulting in one of the following outcomes:</p>
 <ul>
 <li>Approved: Student is awarded “WA’s” for all courses in a term.</li>
 <li>Denied: Student’s earned grade will stand. </li>
@@ -94,7 +94,7 @@
 
 
     <p>
-      If a student has exhausted all appeal options may explore the <a href="">Student Grievance Policy</a>.
+      If a student has exhausted all appeal options may explore the <a href="#">Student Grievance Policy</a>.
     </p>
     
     </div><!--end clearfix-->

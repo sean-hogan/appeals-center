@@ -23,23 +23,22 @@
     
     <p><strong>Appeal Factors:</strong></p>
     <ul>
-      <li>Student faced an unexpected and/or extenuating circumstance after the withdrawal deadline during the term.  </li>
-      <li>Student can provide documentation of their extenuating circumstance. </li>
+      <li>Student faced an unexpected and/or extenuating circumstance after the withdrawal deadline during the term</li>
+      <li>Student can provide documentation of their extenuating circumstance</li>
 
     </ul>
 
     <p>
-      <strong>Decision Time Frame:</strong> Next available Appeals Committee meeting.
+      <strong>Decision Time Frame:</strong> 3 weeks by Student Appeals Committee
     </p>
 
     <p>
-      <strong>Provost Appeal:</strong> Must Appeal to Provost within 2
-      weeks after decision.
+      <strong>Provost Appeal:</strong> Must Appeal to Provost within 2 weeks after decision
     </p>
 
 
 
-    <a class="btn btn-info my-3" href="#" target="_blank">MTF Excpetion Form <span class="bi bi-arrow-right"></span></a>
+    <a class="btn btn-info my-3" href="#" target="_blank">MTF Request <span class="bi bi-arrow-right"></span></a>
         </div><!--end card body -->
 
       </div><!--end card-->
@@ -50,44 +49,44 @@
         <div class="header mb-4">
           <h1 class="display-2">Maximum Time Frame</h1>
         </div>
-        <p class="lead">Students are able to attempt up to 150% of the credits required to complete their degree. If a student will have to exceed the 150% attempted credits to graduate, then the student will be exceeding the Maximum Time Frame policy. </p>
+        <p class="lead">Students are able to attempt up to 150% of the credits required to complete their degree. Students who will have to exceed the 150% attempted credits to graduate will exceed the Maximum Time Frame policy.</p>
 
 <h2>Maximum Time Frame Policy</h2>
 
-<p>The Maximum Time Frame policy is a part of what keeps a student in good academic standing, or Satisfactory Academic Progress.</p>
+<p>The Maximum Time Frame policy is a component of good academic standing, or Satisfactory Academic Progress.</p>
 
-<p>All students who will exceed the Maximum Time Frame must submit a Maximum Time Frame Exception form to continue in their program.</p>
+<p>All students who will exceed the Maximum Time Frame must submit a Maximum Time Frame Exception appeal to continue in their program.</p>
 
-<p>Once determined a student will have to exceed 150% of the number of credit hours required for their degree they will be ineligible for financial aid. Students are not able to appeal to have financial aid reinstated.</p>
+<p>Students who exceed 150% of the number of credit hours required for their degree will be ineligible for financial aid. Students are not able to appeal to have financial aid reinstated.</p>
 
 <h2>Appeal Review Guidelines</h2>
 
-<p>When reviewing Maximum Time Frame appeals, the Student Appeal Committee will review the appeal looking at the following elements:</p>
+<p>The Student Appeals Committee will consider the following elements when reviewing an appeal:</p>
 <ul>
 <li>Extenuating circumstances student faced during their program</li>
 <li>Past academic history</li>
 <li>Strong study plan</li>
-<li>Is the path back to good academic standing possible during the allowed timeframe</li>
+<li>Acceptable timing and path back to good academic standing within the allowed timeframe</li>
 </ul>
 
 
 
 <h2>Appeal Outcomes</h2>
 
-<p>The student's academic progress and any supporting documentation will be reviewed by the Student Appeals Committee who will come to one of two possible outcomes:</p>
+<p>Student academic progress and all supporting documentation will be reviewed by the Student Appeals Committee resulting in one of the following actions:</p>
 
 <ul>
-<li>Approved Academically; Student is provided a plan to complete their degree.</li>
+<li>Approved Academically: Students are provided a plan to complete their degree.</li>
 
-<li>Denied Academically; Student is not able to continue with their program.</li>
+<li>Denied Academically:  Students are not able to continue with their program.</li>
 
-<li>Rejected; Committee needs additional information and/or documentation before a decision can be reached.</li>
+<li>Rejected: Committee needs additional information and/or documentation before a decision can be reached.</li>
 </ul>
 
 
-<p>If approved academically (and agrees to continue with classes), student will be provided a detailed plan on what they need to continue and complete their degree. The student will then work with their Student Success Counselor to register for courses.</p>
+<p>Students approved academically will be provided a detailed plan on next steps to complete their degree and will work with their Student Success Counselor to register for courses.</p>
 
-<p>If a student fails to follow the plan Student Affairs provides (withdraws and/or fails from courses) then the student will not be allowed to continue with courses.</p>
+<p>Students who do not follow the plan provided by Student Affairs (withdrawal and/or failing courses) will not be allowed to continue.</p>
 
 <h2>Provost Appeal Process</h2>
 <p>Students who appeal their Maximum Time Frame and are denied have the option of filing a Provost Appeal SAP Form. The provost appeal must be submitted within 2 weeks of the decision of the Appeals Committee. The provost may request additional documentation from the student. No later than three (3) weeks from the filing of the appeal with the Provost or his/her designee, the student will be notified of the final decision.</p>

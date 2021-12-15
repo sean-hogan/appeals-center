@@ -13,26 +13,25 @@
     <h3 class="card-title py-3">Suspension Basics</h3>
 
     <p>
-      <strong>What You'll Need:</strong> A completed <a href="#">SAP Suspension Appeal form</a>, with a valid appeal factor
+      <strong>What You'll Need:</strong> A completed <a href="#">Suspension Appeal form</a>, with a valid appeal factor
     </p>
 
     <p>
-      <strong>Appeal Deadline:</strong> At the end of each trimester students SAP progress will be reviewed. If it is determined student will progress onto SAP Suspension then the student will need to submit an appeal before continuing with courses.
-    </p>
+      <strong>Appeal Deadline:</strong> Satisfactory Academic Progress is reviewed at the end of each trimester. Students who will progress onto SAP Suspension need to submit an appeal before continuing with courses.    </p>
 
     
     <p><strong>Appeal Factors:</strong>
-    <br />Provide an explanation regarding the circumstances that:</p>
+    <br />Strong appeals will provide:</p>
     <ul>
      
-      <li>Delayed successful completion of your coursework.</li>
-      <li>How previous circumstances are different now.</li>
-      <li>Actions taken during SAP Probation toward meeting SAP standards.</li>
-      <li>An outline of a specific study plan to resume good academic standing.</li>
+      <li>Circumstances that delayed successful completion of coursework</li>
+      <li>How previous circumstances are different now</li>
+      <li>Actions taken during SAP Probation toward meeting SAP standards</li>
+      <li>An outline of a specific study plan to resume good academic standing</li>
     </ul>
 
     <p>
-      <strong>Decision Time Frame:</strong> Appeal is reviewed by the Student Appeals Committee. Once appeal is received then a review will be scheduled for the next available Committee meeting. Committee meets every two weeks. Decision will be delivered to student within one week of Committee meeting
+      <strong>Decision Time Frame:</strong> 3 weeks by Student Appeals Committee
     </p>
 
 
@@ -52,14 +51,14 @@
         
 
 
-<p class="lead">Each institution of higher education that receives Federal Title IV Funds is required by the U.S.Department of Education to define and enforce standards of satisfactory academic progress. Satisfactory Academic Progress measures a student’s performance in the following three areas: cumulative completion rate, cumulative grade point average (GPA), and maximum time frame. The purpose of this policy is to inform students of the expectations required of them to make reasonable academic progress in order to earn a degree. Students who fail to clear SAP Probation status will be placed on Academic Suspension. Students placed on Academic Suspension retain limited access to their Student Portal for account information and student services.</p>
+<p class="lead">Every institution of higher education that receives Federal Title IV Funds is required by the U.S.Department of Education to define and enforce standards of satisfactory academic progress. Satisfactory Academic Progress (SAP) measures a student’s performance in the following three areas: cumulative completion rate, cumulative grade point average (GPA), and maximum time frame. The purpose of this policy is to inform students of the expectations required of them to make reasonable academic progress in order to earn a degree. Students who fail to clear SAP Probation status will be placed on Academic Suspension. Students placed on Academic Suspension retain limited access to their Student Portal for account information and student services.</p>
 
-<p>Students will receive notification of SAP Suspension status from the Registrar's Office via email. In addition, the student will have a SAP Suspension hold placed onto their account. All students who are placed on Academic Suspension must submit an SAP Suspension Appeal form. Success Counselors are able to add the Suspension Appeal form to the student's portal upon request. </p>
+<p>Students will receive notification of SAP Suspension status from the Registrar's Office via email. In addition, students will have a SAP Suspension hold placed onto their account. All students who are placed on Academic Suspension must submit an SAP Suspension Appeal form. Student Success Counselors are able to add the Suspension Appeal form to the student's portal upon request.</p>
 
-<p>Supporting documentation is not necessarily required for a SAP Suspension Appeal, however, they could include it if it will help their appeal case. SAP Suspension Appeals will only be considered if all outstanding account balances have been paid and all official transcripts are on file. SAP Suspension appeals are reviewed by the Student Appeals committee.</p>
+<p>Supporting documentation is not necessarily required for a SAP Suspension Appeal, however, it is highly encouraged to further consideration of the appeal case. SAP Suspension Appeals will only be considered if all outstanding account balances have been paid and all official transcripts are on file. SAP Suspension appeals are reviewed by the Student Appeals committee.</p>
 
 <h2>Appeal Review Guidelines</h2>
-<p>When reviewing SAP Suspension appeals, the Student Appeal Committee will review the appeal looking at the following elements:</p>
+<p>The Student Appeal Committee will review the appeal based on the following elements:</p>
 <ul>
 <li>Extenuating circumstance during SAP Warning period</li>
 <li>Past academic history</li>
@@ -85,11 +84,11 @@
 <li>The student is missing official transcripts - this is especially important for anyone returning to CSU-Global after going to a different school</li>
 </ul>
 
-<p>If the student is approved academically (and agrees to continue with classes), they will be issued an Academic Plan (aka SAP Contract) that will detail what must be completed in order to get back into Good Academic Standing. This contract will be for either one or two whole trimesters. The contract will be completed by the Office of Student Affairs and emailed to the student within 7 business days of the Committee’s decision.  The student must sign the contract and upload it back to their student portal. Once the contract is received and approved, the student will be registered by Student Affairs for their courses.</p>
+<p>Students approved academically (and agreeing to continue with classes) are issued an Academic Plan (aka SAP Contract) detailing what must be completed in order to get back into Good Academic Standing. This contract covers either one or two entire trimesters. The contract is completed by the Office of Student Affairs and emailed to the student within 7 business days of the Committee’s decision. The student must sign the contract and upload it back to their student portal. Once the contract is received and approved, the student is registered by Student Affairs for their courses.</p>
 
 <p>Students in SAP Suspension are never eligible for Financial Aid and must use alternative payment options until they return to good academic standing.</p>
 
-<p>SAP Suspension is the final attempt students have to get back into good academic standing. If student is not able to meet their SAP contract then they will not be able to continue with CSU-Global. </p>
+<p>SAP Suspension is the final attempt students have to get back into good academic standing. Students not able to meet their SAP contract will not be allowed to continue with CSU Global.</p>
 
 <h2>Provost Appeal Process</h2>
 

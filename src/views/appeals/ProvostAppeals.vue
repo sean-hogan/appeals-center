@@ -54,7 +54,7 @@
       <h2>Provost Appeal Policy</h2>
       
     <p>
-      The Provost Appeal is not meant to replace the decision of the appeals committee or  department but affirm that the student’s right to due process was properly conducted. These areas are subject to Requests for Review that include but are not limited to: 
+      The Provost Appeal is not meant to replace the decision of the appeals committee or department but affirm that the student’s right to due process was properly conducted. These areas are subject to Requests for Review that include but are not limited to: 
     </p>
 
     <ul>
