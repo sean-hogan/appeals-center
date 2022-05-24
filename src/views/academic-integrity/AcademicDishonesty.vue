@@ -1,8 +1,15 @@
 <template>
-  <Navbar />
-
-  <PageBanner title="Academic Dishonesty" bc="bc | here | here" />
 <div class="academic-dishonesty section container">
+
+  <div class="row pt-5">
+      <div class="clearfix">
+
+        <header class="header mb-4">
+          <h1 class="display-2">Academic Dishonesty</h1>
+        </header>
+        
+  <main id="main-content">
+
   <p class="lead">
     CSU Global views academic dishonesty as any form of cheating which results
     in students giving or receiving unauthorized assistance in an academic
@@ -52,7 +59,7 @@
           <td>Plagiarism</td>
           <td>
             Plagiarism is the adoption or reproduction of ideas, words, or
-            statements of another person as one’s own either knowingly,
+            statements of another person as one's own either knowingly,
             carelessly, or without acknowledgment.
           </td>
         </tr>
@@ -77,31 +84,32 @@
         </tr>
       </tbody>
     </table>
+  </main>
+
+      </div><!--/clearfix-->
+  </div><!--/row-->
   </div>
   <!--End Container -->
 
-
+<aside>
   <AdvisorCallToAction />
-
-  <Footer />
+</aside>
 </template>
 
 
 <script>
 // @ is an alias to /src
-import Navbar from "@/components/Navbar.vue";
-import PageBanner from "@/components/PageBanner.vue";
 import AdvisorCallToAction from "@/components/AdvisorCallToAction.vue";
-import Footer from "@/components/Footer.vue";
 
 export default {
   name: "AcademicDishonesty",
   components: {
-    Navbar,
-    PageBanner,
     AdvisorCallToAction,
-    Footer,
   },
+   mounted() {
+    document.title = 'Academic Dishonesty | CSU Global Appeals Center';
+        
+    },
 };
 </script>
 

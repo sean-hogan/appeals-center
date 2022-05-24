@@ -1,32 +1,34 @@
 <template>
   <div class="home">
-  <Navbar />
   <Hero 
     title="Get help faster."
-    body="The Student Appeals Center provides students with resources, guidance, and materials you need to get started with Academic Appeals" 
+    body="The Appeals Center provides students with the resources, guidance, and materials you need to get started with your appeal." 
     imgsrc="hello.svg" />
+  <main id="main-content">
   <FileAnAppealBrief />
+  </main>
+  <aside>
   <AdvisorCallToAction />
-  <Footer />
+  </aside>
   </div>
 </template>
 
 <script>
 // @ is an alias to /src
-import Navbar from '@/components/Navbar.vue'
 import Hero from '@/components/Hero.vue'
 import FileAnAppealBrief from '@/components/FileAnAppealBrief.vue'
 import AdvisorCallToAction from '@/components/AdvisorCallToAction.vue'
-import Footer from '@/components/Footer.vue'
 
 export default {
   name: 'Home',
   components: {
-    Navbar,
     Hero,
     FileAnAppealBrief,
     AdvisorCallToAction,
-    Footer,
-  }
+  },
+    mounted() {
+    document.title = 'Home | CSU Global Appeals Center';
+        
+    },
 }
 </script>

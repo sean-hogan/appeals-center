@@ -1,10 +1,15 @@
 <template>
-  <Navbar />
-  <PageBanner title="Student Code of Conduct" bc="bc | here | here" />
-
-
-  <div class="violations-student-code section container">
+  <div class="violations-student-code appeal section container">
   
+
+  <div class="row pt-5">
+      <div class="clearfix">
+
+        <div class="header mb-4">
+          <h1 class="display-2">Violations of Student Code of Conduct</h1>
+        </div>
+
+  <main id="main-content">
 
     <p class="lead">
       Members of the CSU Global community are expected to observe all laws and to respect the rights and privileges of other members of the community. As a community, CSU Global has the obligation to establish those regulations that best serve and protect its integrity as an institution of higher learning and the rights, dignity, and integrity of the members of the community.</p>
@@ -45,33 +50,31 @@
 
   <p>Students may appeal the decision by submitting their request and documentation to the Provost within two (2) weeks of receipt of the decision for action. No later than three (3) weeks receipt of the appeal, the Provost or his/her designee will notify the student of the final decision of the appeal.</p>
 
-
-
+  </main>
+      </div>
+  </div>
 
   </div>
   <!--End Container -->
-
+<aside>
   <AdvisorCallToAction />
-
-  <Footer />
+</aside>
 </template>
 
 
 <script>
 // @ is an alias to /src
-import Navbar from "@/components/Navbar.vue";
-import PageBanner from "@/components/PageBanner.vue";
 import AdvisorCallToAction from "@/components/AdvisorCallToAction.vue";
-import Footer from "@/components/Footer.vue";
 
 export default {
   name: "ViolationsOfStudentCodeOfConduct",
   components: {
-    Navbar,
-    PageBanner,
     AdvisorCallToAction,
-    Footer,
   },
+    mounted() {
+    document.title = 'Violations Of Student Code Of Conduct | CSU Global Appeals Center';
+        
+    },
 };
 </script>
 

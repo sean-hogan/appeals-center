@@ -1,23 +1,21 @@
 <template>
-  <div class="big-damb-hero">
+  <header class="big-hero">
     <div class="container col-xxl-8 px-4 py-5">
-    <div class="row flex-lg-row-reverse align-items-center g-5 py-5">
-      <div class="col-10 col-sm-8 col-lg-6">
-        <img :src="require('../assets/' + imgsrc)" class="d-block mx-lg-auto img-fluid" alt="Bootstrap Themes" width="700" height="500" loading="lazy">
-      </div>
-      <div class="col-lg-6">
-        <h1 class="display-5 fw-bold lh-1 mb-3">{{ title }}
+    <div class="row py-5">
+      
+      <div class="col-12 col-lg-8">
+        <h1 class="hero-title lh-1 mb-3">{{ title }}
           
         </h1>
         <p class="lead">{{ body }}</p>
         <div class="d-grid gap-2 d-md-flex justify-content-md-start">
-          <a type="button" class="btn btn-primary btn-lg px-4 me-md-2" href="/#file-an-appeal">File An Appeal</a>
-          <a type="button" class="btn btn-outline-secondary btn-lg px-4" href="/contact-us">Contact Us</a>
+          <router-link class="btn btn-primary btn-lg px-4 me-md-2 rounded-pill" to="/#file-an-appeal">File An Appeal</router-link>
+          <router-link class="btn btn-light btn-lg px-4 rounded-pill" to="/contact-us">Contact Us</router-link>
         </div>
       </div>
     </div>
   </div>
-  </div>
+  </header>
 </template>
 
 <script>
@@ -33,23 +31,28 @@ export default {
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped lang="scss">
+.big-hero{
+  background-image: url(https://images.prismic.io/csug/f2f98746-f47b-46a6-b7d7-bed3cd9ef987_Appeals-Center-UI-Header-1600x600px-A2.jpg);
+  background-size:cover;
+}
+.hero-title {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: 600;
+  font-size:5rem;
+}
+.lead {
+  font-family: 'Source Sans Pro', sans-serif;
+}
+.btn-light {
+  color:#aa1d40;
+  border:0px;
+}
 
-        .typed-cursor{
-          opacity: 1;
-        }
-        .typed-cursor.typed-cursor--blink{
-          animation: typedjsBlink 0.7s infinite;
-          -webkit-animation: typedjsBlink 0.7s infinite;
-                  animation: typedjsBlink 0.7s infinite;
-        }
-        @keyframes typedjsBlink{
-          50% { opacity: 0.0; }
-        }
-        @-webkit-keyframes typedjsBlink{
-          0% { opacity: 1; }
-          50% { opacity: 0.0; }
-          100% { opacity: 1; }
-        }
-      
+.btn-light:hover {
+  color:#aa1d40;
+  background-color: #eee;
+}
+
+
 
 </style>

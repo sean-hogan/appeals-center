@@ -7,15 +7,6 @@ const routes = [{
         component: Home
     },
     {
-        path: '/about',
-        name: 'About',
-        // route level code-splitting
-        // this generates a separate chunk (about.[hash].js) for this route
-        // which is lazy-loaded when the route is visited.
-        component: () =>
-            import ( /* webpackChunkName: "about" */ '../views/About.vue')
-    },
-    {
         path: '/contact-us',
         name: 'ContactUs',
         component: () =>
@@ -76,12 +67,6 @@ const routes = [{
             import ( /* webpackChunkName: "academic-dishonesty" */ '../views/academic-integrity/AcademicDishonesty.vue')
     },
     {
-        path: '/academic-integrity/student-grievance',
-        name: 'StudentGrievance',
-        component: () =>
-            import ( /* webpackChunkName: "student-grievance" */ '../views/academic-integrity/StudentGrievance.vue')
-    },
-    {
         path: '/academic-integrity/violations-of-student-code-of-conduct',
         name: 'ViolationsOfStudentCodeOfConduct',
         component: () =>
@@ -94,18 +79,28 @@ const routes = [{
 
 const router = createRouter({
     history: createWebHistory(process.env.BASE_URL),
-    //base: publicPath,
     routes,
     scrollBehavior(to, from, savedPosition) {
         if (savedPosition) {
             return savedPosition
         } else if (to.hash) {
+            //reset focus
+            document.body.setAttribute("tabindex", "-1");
+            document.body.focus();
+            document.body.removeAttribute("tabindex");
+            console.log(from)
+            console.log(to);
             return {
                 el: to.hash,
                 behavior: 'smooth',
                 top: 100,
             }
         } else {
+            //reset focus
+            document.body.setAttribute("tabindex", "-1");
+            document.body.focus();
+            document.body.removeAttribute("tabindex");
+            //scroll to top
             return { left: 0, top: 0 }
         }
     }

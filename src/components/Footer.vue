@@ -1,98 +1,104 @@
 <template>
-<div class="footer section bg-secondary">
-    <div class="container container-fluid pb-0 mb-0 justify-content-center text-light">
+<div class="footer section">
+    <div class="container-fluid">
      <footer>
-         <div class="row my-5 justify-content-center py-5">
-             <div class="col-11">
-                 <div class="row ">
+         <div class="row mx-5 p-5">
+            <div class="col-lg-3">
+                <img src="https://csuglobal.edu/imgs/logo_csuglobal.png" alt="" class="img-fluid">
+                <p class="mt-3"><strong>Colorado State University Global</strong>
+                <br />585 Salida Way
+                <br />Aurora, CO 80011</p>
+                 
+            </div><!--end col-->
+            <div class="col-lg-9">
 
-                     <div class="col-xl-8 col-md-4 col-sm-4 col-12 my-auto mx-auto a">
-                         <h3 class="text-muted mb-md-0 mb-5 bold-text">Chunky Appeals Footer.</h3>
-                     </div>
 
-                     <div class="col-xl-2 col-md-4 col-sm-4 col-12">
-                         <h6 class="mb-3 mb-lg-4 bold-text "><b>MENU</b></h6>
-                         <ul class="list-unstyled">
-                             <li>Home</li>
-                             <li>About</li>
-                             <li>Blog</li>
-                             <li>Portfolio</li>
-                         </ul>
-                     </div>
-                     <div class="col-xl-2 col-md-4 col-sm-4 col-12">
-                         <h6 class="mb-3 mb-lg-4 text-muted bold-text mt-sm-0 mt-5"><b>ADDRESS</b></h6>
-                         <p class="mb-1">605, GLOBAL ICON BUILDING</p>
-                         <p>AURORA SECTOR</p>
-                     </div>
-                 </div>
+            <div class="row row-cols-1 row-cols-lg-2">
 
-                 <div class="row">
-                     <div class="col-xl-8 col-md-4 col-sm-4 col-auto my-md-0 mt-5 order-sm-1 order-3 align-self-end">
-                         <p class="social text-muted mb-0 pb-0 bold-text"> <span class="mx-2"><i class="fa fa-facebook" aria-hidden="true"></i></span> <span class="mx-2"><i class="fa fa-linkedin-square" aria-hidden="true"></i></span> <span class="mx-2"><i class="fa fa-twitter" aria-hidden="true"></i></span> <span class="mx-2"><i class="fa fa-instagram" aria-hidden="true"></i></span> </p><small class="rights"><span>&#174;</span> Global 21 All Rights Reserved.</small>
-                     </div>
-                     <div class="col-xl-2 col-md-4 col-sm-4 col-auto order-1 align-self-end ">
-                         <h6 class="mt-55 mt-2 text-muted bold-text"><b>SEAN HOGAN</b></h6><small> <span></span> shogan@csuglobal.edu</small>
-                     </div>
-                     <div class="col-xl-2 col-md-4 col-sm-4 col-auto order-2 align-self-end mt-3 ">
-                         <h6 class="text-muted bold-text"><b>ANDREA BUTLER</b></h6><small><span></span> ab@csuglobal.edu</small>
-                     </div>
-                 </div>
-             </div>
-         </div>
+
+            <div class="col">   
+            <h3 class="h6">Appeals Center</h3>
+
+            <ul class="list-inline">
+                <li class="list-inline-item"><router-link class="link-primary" to="/#file-an-appeal">File An Appeal</router-link></li>
+                <li class="list-inline-item"><router-link class="link-primary" to="/contact-us">Contact Us</router-link></li>
+                <li class="list-inline-item"><router-link class="link-primary" to="/contact-us#faq">FAQ</router-link></li>
+            </ul>
+            
+            </div><!--end col-->
+
+ 
+            <div class="col">
+            <h3 class="h6">Appeals</h3>
+
+            <ul class="list-inline">
+                <li class="list-inline-item"><router-link class="link-primary" to="/appeals/grade-appeals">Grade Appeal</router-link></li>
+                <li class="list-inline-item"><router-link class="link-primary" to="/appeals/tuition-appeals">Tuition Appeal</router-link></li>
+                <li class="list-inline-item"><router-link class="link-primary" to="/appeals/provost-appeals">Provost Appeal</router-link></li>
+                <li class="list-inline-item"><router-link class="link-primary" to="/appeals/retroactive-withdrawal">Retroactive Withdrawal Appeal</router-link></li>
+                <li class="list-inline-item"><router-link class="link-primary" to="/appeals/sap-max-time-frame">Maximum Time Frame Appeal</router-link></li>
+                <li class="list-inline-item"><router-link class="link-primary" to="/appeals/sap-probation">SAP Probation Appeal</router-link></li>
+                <li class="list-inline-item"><router-link class="link-primary" to="/appeals/sap-suspension">Suspension Appeal</router-link></li>
+                <li class="list-inline-item"><router-link class="link-primary" to="/appeals/sap-financial-aid">Financial Aid Reinstatement Appeal</router-link></li>
+            </ul>
+            
+            </div><!--end col-->
+
+
+            <div class="col">
+            <h3 class="h6">Academic Integrity</h3>
+
+            <ul class="list-inline">
+                <li class="list-inline-item"><router-link class="link-primary" to="/#catalog">Academic Dishonesty</router-link></li>
+                <li class="list-inline-item"><router-link class="link-primary" to="/#">Violations of Student Code of Conduct</router-link></li>
+            </ul>
+            
+            </div><!--end col-->
+
+            <div class="col">
+
+            <h3 class="h6">Institutional Policies</h3>
+            <ul class="list-inline">
+                <li class="list-inline-item"><a class="link-primary" href="https://csuglobal.edu/disclaimer">Disclaimer</a></li>
+                <li class="list-inline-item"><a class="link-primary" href="https://csuglobal.edu/web-privacy-policy">Web Privacy Policy</a></li>
+                <li class="list-inline-item"><a class="link-primary" href="https://csuglobal.edu/compliance-reporting">Compliance Reporting</a></li>
+                <li class="list-inline-item"><a class="link-primary" href="https://csuglobal.edu/student-policies/institutional-accessibility-policy">Accessibility</a></li>
+                <li class="list-inline-item"><a class="link-primary" href="https://csuglobal.edu/student-policies">Student Policies</a></li>
+            </ul>
+            </div><!--end col-->
+
+        
+            </div><!--end row-cols-2-->
+
+            </div><!--end links col--->
+         </div><!--end row-->
      </footer>
     </div><!--end container-->
     </div><!--end section-->
+    
 </template>
 
 <script>
+
 export default {
   name: 'Footer',
   props: {
 
   },
-}
+  }
 </script>
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped lang="scss">
- @import url('https://fonts.googleapis.com/css?family=Rubik&display=swap');
+.footer {
+    background-color:#eee;
+}
 
- body {
-     background: linear-gradient(0deg, #fff, 50%, #DEEEFE);
-     font-family: 'Rubik', sans-serif;
-     background: #455A64;
-     height: 100 !important
- }
+#app .list-inline-item {
+    font-size:.9rem;
+}
 
- .container-fluid {
-     overflow: hidden;
-     background: #262626;
-     color: #627482 !important;
-     margin-bottom: 0;
-     padding-bottom: 0
- }
-
- small {
-     font-size: calc(12px + (15 - 12) * ((100vw - 360px) / (1600 - 360))) !important
- }
-
- .bold-text {
-     color: #989c9e !important
- }
-
- .mt-55 {
-     margin-top: calc(50px + (60 - 50) * ((100vw - 360px) / (1600 - 360))) !important
- }
-
- h3 {
-     font-size: calc(34px + (40 - 34) * ((100vw - 360px) / (1600 - 360))) !important
- }
-
- .social {
-     font-size: 21px !important
- }
-
- .rights {
-     font-size: calc(10px + (12 - 10) * ((100vw - 360px) / (1600 - 360))) !important
- }
+.h6 {
+    font-weight:600;
+}
 </style>

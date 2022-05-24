@@ -1,26 +1,32 @@
 <template>
-  <Navbar />
-  <div class="tuition-appeal section container">
+  <div class="tuition-appeal appeal section container">
     <div class="row pt-5">
       <div class="clearfix">
+      <main id="main-content">
 
       <div class="col-sm-5 float-sm-end mb-3 ms-sm-4">
         
-      <div class="card px-2">
-        <div class="card-body">
+      <div class="basics card">
+        <img src="https://images.prismic.io/csug/f3433a01-a8d9-43d7-8cd7-a7c33603e789_appeals-tuition-basics-cap.png" class="card-img-top d-none d-md-block" alt="">
+
+        <div class="card-body px-4">
 
 
-    <h2 class="card-title py-3">Tuition Appeal Basics</h2>
+    <h2 class="card-title">Tuition Appeal Basics</h2>
 
     <p>
-      <strong>What You'll Need:</strong> A completed <a href="#">Tuition Appeal Form</a>, with a valid appeal factor, submitted before the appeal deadline
+      <strong>What You'll Need:</strong> A completed Tuition Appeal Form, with a valid appeal factor, submitted before the appeal deadline
     </p>
 
     <p>
-      <strong>Appeal Deadline:</strong> Filed within 30 days of the end of the term in question, including all supporting documentation
+      <strong>How to Start:</strong> Contact your Student Success Counselor, who will discuss the options, and make the correct form available in the Document Center, in the Student Portal
+    </p>
+    <p>
+      <strong>Appeal Deadline:</strong> Within 30 days of the end of the term in question, including all supporting documentation
     </p>
 
-    
+
+  
     <p><strong>Appeal Factors:</strong></p>
     <ul>
       <li>
@@ -39,13 +45,13 @@
     </p>
 
     <p>
-      <strong>Provost Appeal:</strong> Must Appeal to Provost within 2
+      <strong>Provost Appeal:</strong> Must appeal to Provost within 2
       weeks after decision.
     </p>
 
 
 
-    <a class="btn btn-info my-3" href="#" target="_blank">Tuition Appeal Form <span class="bi bi-arrow-right"></span></a>
+    <a class="d-inline-flex align-items-center text-decoration-none ms-3 fs-5" href="https://portal.csuglobal.edu/portal/student#sidebar-advisor"><i class="bi bi-arrow-right-circle-fill fs-3 me-2"></i> Contact Your Student Success Counselor</a>
         </div><!--end card body -->
 
       </div><!--end card-->
@@ -54,7 +60,7 @@
 
 
         <div class="header mb-4">
-          <h1 class="display-2">Tuition Appeals</h1>
+          <h1 class="display-2">Tuition Appeal</h1>
         </div>
         
       <p class="lead">The Student Appeal Committee will consider requests for adjustment to tuition and fee charges when a student can document extenuating circumstances. Approved tuition appeals post a tuition waiver to student accounts; no refunds will be issued to students directly unless withdrawn from the university.</p>
@@ -63,7 +69,7 @@
 
     <h2>Tuition Appeal Policy</h2>
     <p>
-     The Student Appeal Committee will consider requests for adjustment to tuition charges when students can document extenuating circumstances. Situations that are NOT considered extenuating include, but are not limited to: predictable events such as a wedding, vacation, shifts in work assignment, previously scheduled surgery, or other events of which the student is aware and can schedule adjustments prior to the term drop deadline.
+     The Student Appeal Committee will consider requests for adjustment to tuition charges when students can document extenuating circumstances. Situations that are NOT considered extenuating include, but are not limited to: predictable events such as a wedding, vacation, shifts in work assignment, previously scheduled surgery, or other events of which the student is aware and can adjust their schedule prior to the term drop deadline.
     </p>
 
 
@@ -103,70 +109,30 @@
     <p>
     If a student has exhausted all appeal options may explore the <a href="">Student Grievance Policy</a>. 
     </p>
+      </main>
     
     </div><!--end clearfix-->
     </div><!--end row-->
     
   </div><!--End Container -->
-
+<aside>
   <AdvisorCallToAction />
-
-  <Footer />
+</aside>
 </template>
 
 
 <script>
 // @ is an alias to /src
-import Navbar from "@/components/Navbar.vue";
 import AdvisorCallToAction from "@/components/AdvisorCallToAction.vue";
-import Footer from "@/components/Footer.vue";
 
 export default {
   name: "TuitionAppeal",
   components: {
-    Navbar,
     AdvisorCallToAction,
-    Footer,
   },
+  mounted() {
+    document.title = 'Tuition Appeal | CSU Global Appeals Center';
+        
+    },
 };
 </script>
-
-<!-- Add "scoped" attribute to limit CSS to this component only -->
-<style scoped lang="scss">
-.card ul li {
-  margin-bottom:1rem;
-}
-
-.header:after {
-    content: "";
-    display: block;
-    margin-bottom: 20px;
-    position: relative;
-    width: 60px;
-    height: 5px;
-    background-color: #18c9b9;
-    margin-top: 10px;
-}
-
-h2 {
-  margin-top:2rem;
-}
-
-h2:after {
-    content: "";
-    display: block;
-    margin-bottom: 20px;
-    position: relative;
-    width: 60px;
-    height: 3px;
-    background-color: #eee;
-    margin-top: 10px;
-}
-.section {
-  margin-bottom: 5rem;
-}
-
-</style>
-
-
-

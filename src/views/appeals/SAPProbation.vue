@@ -1,23 +1,27 @@
 <template>
-  <Navbar />
-  <div class="probation section container">
+  <div class="probation appeal section container">
     <div class="row pt-5">
       <div class="clearfix">
+      <main id="main-content">
 
       <div class="col-sm-5 float-sm-end mb-3 ms-sm-4">
         
-      <div class="card px-2">
-        <div class="card-body">
+  
+       <div class="basics card">
+          <img src="https://images.prismic.io/csug/754e2bfd-7edc-494c-b65d-a08c31eeaacc_appeals-probation-basics-cap.png" class="card-img-top d-none d-md-block" alt="">
+        <div class="card-body px-4">
 
-
-    <h3 class="card-title py-3">SAP Probation Basics</h3>
+    <h2 class="card-title">SAP Probation Appeal Basics</h2>
 
     <p>
-      <strong>What You'll Need:</strong> A completed <a href="#">SAP Probation Appeal</a>, with a valid appeal factor, submitted before the appeal deadline
+      <strong>What You'll Need:</strong> A completed SAP Probation Appeal Form, with a valid appeal factor, submitted before the appeal deadline
     </p>
 
     <p>
-      <strong>Appeal Deadline:</strong> A Student’s Satisfactory Academic Progress is reviewed at the end of each trimester. Students deemed to move to SAP Probation will need to submit an appeal before continuing with courses
+      <strong>How to Start:</strong> The correct for will be made available in the Document Center, in the Student Portal. Please Contact a Student Success Counselor with any questions
+    </p>
+    <p>
+      <strong>Appeal Deadline:</strong> A Student's Satisfactory Academic Progress is reviewed at the end of each trimester. Students deemed to move to SAP Probation will need to submit an appeal before continuing with courses
     </p>
 
     
@@ -36,7 +40,7 @@
       <strong>Decision Time Frame:</strong> 3 weeks by Student Appeals Committee
     </p>
 
-    <a class="btn btn-info my-3" href="#" target="_blank">SAP Probation Appeal Form <span class="bi bi-arrow-right"></span></a>
+    <a class="d-inline-flex align-items-center text-decoration-none ms-3 fs-5" href="https://portal.csuglobal.edu/portal/student#sidebar-advisor"><i class="bi bi-arrow-right-circle-fill fs-3 me-2"></i> Contact Your Student Success Counselor</a>
         </div><!--end card body -->
 
       </div><!--end card-->
@@ -45,12 +49,12 @@
 
 
         <div class="header mb-4">
-          <h1 class="display-2">SAP Probation</h1>
+          <h1 class="display-2">SAP Probation Appeal</h1>
         </div>
         
 
 
-<p class="lead">Students who are not able to meet their SAP Warning Contract, will progress onto SAP Probation.</p>
+<p class="lead">Students who are not able to meet their SAP Warning Contract will progress onto SAP Probation.</p>
 
 <h2>SAP Probation Policy</h2>
 <p>Students will receive notification of SAP Probation status from the Registrar's Office via email. In addition, the student will have a SAP probation hold and a SAP termination hold placed onto their account. Please note, the SAP termination hold is a Financial Aid hold and will be taken off the student's account if they are approved to continue receiving Financial Aid.</p>
@@ -86,7 +90,7 @@
 <ul>
 <li>The student has a past due balance on their account</li>
 <li>The student has a pending Incomplete grade for an term. </li>
-<li>The student is missing official transcripts - this is especially important for anyone returning to CSU-Global after going to a different school</li>
+<li>The student is missing official transcripts - this is especially important for anyone returning to CSU Global after going to a different school</li>
 </ul>
 
 <p>Any student approved academically (and agreeing to continue with classes), will be issued an Academic Plan (SAP Contract) detailing what must be completed in order to get back into Good Academic Standing. This contract will be for either one or two entire trimesters. The contract is meant to help the student avoid SAP Suspension. The contract will be completed by the Office of Student Affairs and emailed to the student within 7 business days of the Committee’s decision. The student must sign the contract and upload it back to their student portal. Once the contract is received and approved, the student will be registered by Student Affairs for their courses.</p>
@@ -102,73 +106,34 @@
 <h2>Provost Appeal Process</h2>
 
 
-<p>Students who appeal their SAP Probation and are denied have the option of filing a Provost Appeal SAP Form. The appeal, with supporting documentation, must be filed within two (2) weeks of the receipt of the original decision. The Provost or designee may request additional information as determined necessary. No later than three (3) weeks from the filing of the appeal with the Provost or his/her designee, the student will be notified of the final decision.</p>
+<p>Students who appeal their SAP Probation and are denied have the option of filing a Provost Appeal SAP form. The appeal, with supporting documentation, must be filed within two (2) weeks of the receipt of the original decision. The Provost or designee may request additional information as determined necessary. No later than three (3) weeks from the filing of the appeal with the Provost or his/her designee, the student will be notified of the final decision.</p>
 
 <p>If a student has exhausted all appeal options may explore the <a href="#">Student Grievance Policy</a>.</p>
-
+    </main>
     </div><!--end clearfix-->
     </div><!--end row-->
     
   </div><!--End Container -->
-
+<aside>
   <AdvisorCallToAction />
-
-  <Footer />
+</aside>
 </template>
 
 
 <script>
 // @ is an alias to /src
-import Navbar from "@/components/Navbar.vue";
 import AdvisorCallToAction from "@/components/AdvisorCallToAction.vue";
-import Footer from "@/components/Footer.vue";
 
 export default {
   name: "SAPProbation",
   components: {
-    Navbar,
     AdvisorCallToAction,
-    Footer,
   },
+    mounted() {
+    document.title = 'SAP Probation Appeal | CSU Global Appeals Center';
+        
+    },
 };
 </script>
-
-<!-- Add "scoped" attribute to limit CSS to this component only -->
-<style scoped lang="scss">
-.card ul li {
-  margin-bottom:1rem;
-}
-
-.header:after {
-    content: "";
-    display: block;
-    margin-bottom: 20px;
-    position: relative;
-    width: 60px;
-    height: 5px;
-    background-color: #18c9b9;
-    margin-top: 10px;
-}
-
-h2 {
-  margin-top:2rem;
-}
-
-h2:after {
-    content: "";
-    display: block;
-    margin-bottom: 20px;
-    position: relative;
-    width: 60px;
-    height: 3px;
-    background-color: #eee;
-    margin-top: 10px;
-}
-.section {
-  margin-bottom: 5rem;
-}
-
-</style>
-
 
 

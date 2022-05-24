@@ -1,98 +1,82 @@
 <template>
-  <Navbar />
-
   <div class="contact-us section container">
-    <div class="banner text-center mb-5">
-      <h1 class="display-3 my-4">Here is a Contact Page</h1>
-      <p class="lead">
-        And then maybe a little bit of flavor text to make this page a little
-        spicy
-      </p>
-    </div>
+    <header class="banner text-center mb-5">
+      <h1 class="display-3 my-4">We're Here to Help</h1>
+    </header><!--end banner-->
 
-    <div class="row mb-5 justify-content-center">
-      <div class="col-sm-5">
-        <h4>CENTER FOR ACADEMIC APPEALS</h4>
-        <p>
-          <i class="bi bi-envelope me-2"></i><a
-            href="mailto:sean.hogan@csuglobal.edu"
-            >student.affairs@csuglobal.edu</a
-          >
-        </p>
+  <main id="main-content">
 
-        <p>
-          <i class="bi bi-envelope me-2"></i> CSU Global, Student
-          Affairs<br />
-          <span class="ms-4">585 Salida Way</span><br />
-          <span class="ms-4">Aurora, Colorado 80011</span>
-        </p>
+      <div class="row row-cols-1 row-cols-md-2 mb-3">
+        
+      <div class="col mb-3 mb-md-0">
 
-        <p>
-          <i class="bi bi-phone me-2"></i><a
-            href="tel:1-720-279-0650"
-            >(720) 279-0650</a
-          >
-        </p>
+        <div class="card h-100">
+        <div class="row g-0 d-flex align-content-stretch flex-wrap h-100">
+            <div class="col-md-3 d-none d-md-inline">
+                <img src="https://images.prismic.io/csug/12acfdf8-bd6b-47b9-a44d-c7f06bb007fd_appeals-contact-cap1.png" class="cover" alt="">
 
-        <p><b>FAX</b>: <a href="tel:1-720-943-2863">(720) 943-2863</a></p>
+            </div>
+            <div class="col-md-9">
+              <div class="card-body">
+                      <h2 class="card-title mb-3">Submit Appeal</h2>
+                        <p>To submit an appeal:</p>
+                        <ol>
+                          <li>Contact your Advisor to make the appropriate form available in the Document Center, in the <a href="https://portal.csuglobal.edu/portal/student">Student Portal</a></li>
+                          <li>Submit appeal with appropriate documentation</li>
+                          <li><a href="https://portal.csuglobal.edu/portal/student#sidebar-advisor">Contact Your Advisor</a> to let them know you have submitted the appeal for review</li>
+            </ol>
+              </div>
+            </div>
+          </div>
+        </div><!--/card-->
+      </div><!--/col-->
 
-        <p>
-          <a href="https://csuglobal.libguides.com/c.php?g=943626&p=6809429"
-            ><button type="button" class="btn btn-outline-secondary me-3">
-              Register With Us
-            </button></a
-          >
-          <a href="mailto:sean.hogan@csuglobal.edu"
-            ><button type="button" class="btn btn-outline-secondary">
-              Request Faculty Notification
-            </button></a
-          >
-        </p>
-      </div>
+           <div class="col">
 
-      <div class="col-sm-5">
-        <h4>STUDENT SUCCESS COUNSELORS</h4>
-        <p>
-          Lorem ipsum is placeholder text commonly used in the graphic. Simply
-          <a href="tel:1-866-734-5890"
-            >call the counseling number at (866) 734-5890</a
-          >
-          or go to the Student Assistance Portal and select "Contact Us".
-        </p>
-        <p>
-          <i class="bi bi-phone me-2"></i><a
-            href="tel:1-866-734-5890"
-            >(866) 734-5890</a
-          >
-        </p>
+        <div class="card h-100">
+        <div class="row g-0 d-flex align-content-stretch flex-wrap h-100">
+            <div class="col-md-3 d-none d-md-inline">
+                <img src="https://images.prismic.io/csug/c025c932-0282-42e2-8cd2-8fad68ac846b_appeals-contact-cap2.png" class="cover" alt="">
 
-        <form action="https://espyr.com/sign-in/" method="post">
-          <input name="password" value="CSUGlobal" type="hidden" />
-          <button type="submit" class="btn btn-outline-secondary mt-auto" formtarget="_blank">
-            Go To Counseling Services <span class="oi oi-arrow-right"></span>
-          </button>
-        </form>
-      </div>
-    </div>
-    <!--end row-->
-  </div>
-  <!--End Container -->
+            </div>
+            <div class="col-md-9">
+              <div class="card-body">
+                      <h2 class="card-title mb-3">Get In Touch</h2>
+                        <ul class="list-unstyled mt-3 mb-4">
+                            <li><i class="bi bi-person-circle me-3"></i><a href="https://portal.csuglobal.edu/portal/student#sidebar-advisor">Contact My Advisor</a></li>
+                            <li><i class="bi bi-envelope me-3"></i><a href="mailto:student.affairs@csuglobal.edu">student.affairs@csuglobal.edu</a></li>
+                            <li><i class="bi bi-phone me-3"></i><a href="tel:1-866-734-5890">(866) 734-5890</a></li>
+                          </ul>
+              </div>
+            </div>
+          </div>
+        </div><!--/card-->
+      </div><!--/col-->
 
-  <Footer />
+
+
+    </div><!--end row-->
+    
+
+  </main>
+  </div>  <!--End Container -->
+  <aside>
+  <FAQ />
+  </aside>
 </template>
 
 
 <script>
-// @ is an alias to /src
-import Navbar from "@/components/Navbar.vue";
-import Footer from "@/components/Footer.vue";
-
+import FAQ from '@/components/FAQ.vue'
 export default {
   name: "ContactUs",
   components: {
-    Navbar,
-    Footer,
+    FAQ,
   },
+  mounted() {
+    document.title = 'Contact Us | CSU Global Appeals Center';
+        
+    },
 };
 </script>
 
